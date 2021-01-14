@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Technologies & Tools
 <p align="left">
-- Angular JS - Bash - Bootstrap - Chart JS - C# - Docker - Express JS - Firebase - Google Cloud - Git - Html & CSS - Ionic Framework - Javascript - Socket.io - Jenkins- Linux - MongoDB - MySQL - NodeJS - Typescript - Photoshop
+- Angular JS - Bash - Bootstrap - Chart JS - C# - Docker - Express JS - Firebase - Google Cloud - Git - Html & CSS - Ionic Framework - Javascript - Socket.io - Jenkins- Linux - MongoDB - MySQL - NodeJS - Typescript - Photoshop -
 </p><p>&nbsp;</p>
   
 ## 📈 My Github stats
