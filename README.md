@@ -1,18 +1,34 @@
-<h1 align="center">Hi 👋, I'm Maxime Minta</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Maxime Minta</h1>
 <h3 align="center">A student from Belgium at Artesis plantijn Hogeschool, Antwerp</h3>
+
+</a>
+<a href="https://www.linkedin.com/in/maxime-minta-3067ba187/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/117681778">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximemnt" alt="maximemnt" /> </p>
 
 ## 👨‍💻 Technologies & Tools
 <p align="left">
-- Angular JS - Bash - Bootstrap - Chart JS - C# - Docker - Express JS - Firebase - Google Cloud - Git - Html & CSS - Ionic Framework - Javascript - Socket.io - Jenkins- Linux - MongoDB - MySQL - NodeJS - Typescript - Photoshop -
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 </p><p>&nbsp;</p>
   
 ## 📈 My Github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maximemnt&show_icons=true&theme=dark" alt="maximemnt" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeMnt&theme=dark&layout=compact" />
 
-## 🗣 Contact
-<p align="center">
-<a href="https://linkedin.com/in/maxime-minta-3067ba187" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maxime-minta-3067ba187" height="30" width="30" /></a>
-</p>
